@@ -1,0 +1,30 @@
+ls: 디렉토리 내용 보기(현위치)
+ls -al:디렉토리 상세하게 보기:10글자로  
+x xxx xxx xxx  계정명 계정명
+d rwx r-x r-x  계정명 계정명
+
+d:디렉토리 l: 바로가기 -:파일
+
+
+pwd : 내 경로보기
+cd /: 최상위 경로로 가는 것(root)
+
+cd~ :우리가 사용할 디렉토리
+
+
+1.mysql깔고, nodejs깔거임
+
+node -v
+mysql 
+
+기본적으로 git는 깔려있다.
+
+downloads.mariadb.org/mariadb/
+
+
+subo su // 슈퍼계정으로 접속하겠다는거임
+계정이 ubuntu
+
+
+
+슈퍼계정에서 
